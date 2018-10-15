@@ -1,5 +1,5 @@
 # CS585-Lab1
-Solution for BU CS585 Lab1 <br>
+Solution for BU CS585 Lab1 2018 Fall<br>
 ## Requirements
 1. Create a grayscale image of your face by converting your color image using one of the conversions we discussed in class last week. <br>
 2. Flip your face image horizontally, i.e. left to right, right to left. <br>
